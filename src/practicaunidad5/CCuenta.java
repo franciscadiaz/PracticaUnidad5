@@ -1,13 +1,8 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package practicaunidad5;
 
 /**
  *
- * @author ED05
+ * @author ED05 --Modificado por Francisca Díaz
  */
 public class CCuenta {
 
